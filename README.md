@@ -8,9 +8,9 @@
 
 <body>
     <div id="header">
-        <p id="name">SNEHAL YEVALE</p>
-        <a href="syevale20it@student.mes.ac.in" target="_blank">
-            <p id="email">syevale20it@student.mes.ac.in</p>
+        <p id="name">RAYYAN MOMIN</p>
+        <a href="rnam20it@student.mes.ac.in" target="_blank">
+            <p id="email">rnam20it@student.mes.ac.in</p>
         </a>
     </div>
     <div class="left">
@@ -20,7 +20,7 @@
         <p>
         <ul>
             <li>Web Development</li>
-            <li>python ,java ,html </li>
+            <li>python ,java html </li>
             <li>Css , Node.js</li>
             <li>c,c++</li>
         </ul>
@@ -47,28 +47,48 @@
             </tr>
             <tr>
                 <td>S.S.C</td>
-                <td>S.S.C</td>
-                <td>88.20%</td>
+                <td>cbse</td>
+                <td>9.2 Cgpa</td>
                 <td>2017</td>
             </tr>
             <tr>
                 <td>diploma</td>
-                <td>Autonomous</td>
-                <td>88.40%</td>
+                <td>msbte</td>
+                <td>89%</td>
                 <td>2020</td>
             </tr>
 
 
         </table>
- 
-                  <h3>Technical Skills</h3>
+        <h3>Independent Courses</h3>
+        <p>
+        <ul>
+            <li>
+                <span id="course-name">HTML & CSS for Beginners – Web Fundamentals
+            <li>
+                <span id="course-name">Python – Fundamentals and Dynamic Programming
+            <li>
+                <span id="course-name">JavaScript – Programming Basics, JS Apps and Build Games
+            <li>
+                <span id="course-name">CS101: Introduction to Computer Science - Building a Web Crawler
+            <li>
+                <span id="course-name">CS50x – Introduction to Computer Science
+
+
+                    <h3>Technical Skills</h3>
                     <p>
                     <ul>
                         <li>
-                            <span id="course-name">Operating Systems:</span>Windows 7,windows 10, Linux (Ubuntu)
+                            <span id="course-name">Operating Systems:</span> DOS, Windows 98, Windows 2000, Windows XP,
+                            Windows NT, Windows Server 2003, Windows Vista, Windows 7, Macintosh Computers (OS X), Linux
+                            (Ubuntu, Fedora)
                         </li>
                         <li>
-                            <span id="course-name">Programming Skills:</span>HTML, CSS, Python, Java,learning C
+                            <span id="course-name">Application Software:</span> Office 97-2003; Office XP, Office 2007,
+                            Office for Mac 2011, iWork ’09,
+                        </li>
+                        <li>
+                            <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, learning C
                             and C++
                         </li>
                     </ul>
@@ -93,7 +113,7 @@
                         </li>
                         <li>
                             <span id="course-name">Area of Interest:</span>Software Development, Programming, Start-ups,
-                            Coding, App Development 
+                            Coding, App Development, 
                         </li>
                         <li>
                             <span id="course-name">Joining Date:</span>Immediate
